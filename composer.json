@@ -1,0 +1,16 @@
+{
+    "name": "zacharywatkins/pdf-data-viz",
+    "description": "Data visualization in PDF format using PHP",
+    "type": "project",
+    "require": {
+        "setasign/fpdf": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ZachWatkins",
+            "email": "3458875+ZachWatkins@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

@@ -1,2 +1,3 @@
-# pdf-data-viz
-Data visualization with PHP and other web technologies
+# PDF Data Visualization
+
+Create a PDF file containing values from different data file formats.
